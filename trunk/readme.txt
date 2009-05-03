@@ -1,0 +1,11 @@
+项目说明
+项目创建时间：2009.5.3
+开发工具：MyEclipse7.0GA
+Java：1.5.x
+服务器引擎：Tomcat5.5.x
+数据库：MySql5.x
+目录说明：
+src：存放java程序代码和配置文件，该文件最后将发布到/WebRoot/WEB-INF/classes目录下
+test：存放测试代码，该代码将会发布到/bin目录下，该代码不会发布到/WebRoot目录下
+document:存放项目文档，该代码不会发布到/WebRoot目录下
+项目svn地址：http://chinasupport.googlecode.com/svn或者：https://chinasupport.googlecode.com/svn
